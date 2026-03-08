@@ -1,34 +1,35 @@
-# 🚀 Space Shooter Game (C++)
+#  Space Shooter Game (C++)
 
 A **console-based Space Shooter game** developed in **C++** using the Windows Console API.
 The player controls a spaceship, shoots enemies, and survives through multiple levels while avoiding enemy bullets.
 
 ---
 
-## 🎮 Game Features
+##  Game Features
 
-* 🚀 Player spaceship movement
-* 🔫 Bullet shooting system
-* 👾 Enemy AI with random shooting
-* 📈 Multiple difficulty levels
-* ❤️ Player lives system
-* 🧮 Score tracking
-* 🎯 Enemy movement similar to classic arcade shooters
-* 🎨 Colored console graphics
+*  Player spaceship movement
+*  Bullet shooting system
+*  Enemy AI with random shooting
+*  Multiple difficulty levels
+*  Player lives system
+*  Score tracking
+*  Enemy movement similar to classic arcade shooters
+*  Colored console graphics
 
 ---
 
-## 🕹 Controls
+##  Controls
 
 | Key           | Action               |
 | ------------- | -------------------- |
-| ⬅ Left Arrow  | Move spaceship left  |
-| ➡ Right Arrow | Move spaceship right |
+|  Left Arrow  | Move spaceship left  |
+|  Right Arrow | Move spaceship right |
 | Space         | Shoot bullets        |
 
 ---
 
-## 🧠 Game Mechanics
+
+##  Game Mechanics
 
 * The player starts with **3 lives**.
 * Enemies move horizontally and descend when they hit the wall.
@@ -46,7 +47,7 @@ The player controls a spaceship, shoots enemies, and survives through multiple l
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 * **C++**
 * **Windows Console API**
@@ -64,7 +65,7 @@ Libraries used:
 
 ---
 
-## 🧩 Project Structure
+##  Project Structure
 
 ```
 space-shooter-game
@@ -75,7 +76,7 @@ space-shooter-game
 
 ---
 
-## ▶ How to Run
+##  How to Run
 
 1. Clone or download the repository.
 2. Open the project in **Visual Studio** or any C++ compiler.
@@ -90,7 +91,7 @@ shooter.exe
 
 ---
 
-## 📚 Concepts Demonstrated
+##  Concepts Demonstrated
 
 This project demonstrates several important programming concepts:
 
@@ -103,7 +104,7 @@ This project demonstrates several important programming concepts:
 
 ---
 
-## 🎯 Future Improvements
+##  Future Improvements
 
 Possible enhancements for the game:
 
@@ -116,7 +117,7 @@ Possible enhancements for the game:
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Musa Khurram**
 
